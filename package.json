@@ -1,5 +1,5 @@
 {
-  "name": "bot",
+  "name": "dbLab_botbuilder",
   "version": "1.0.0",
   "description": "Creating telegram bot",
   "main": "index.js",
