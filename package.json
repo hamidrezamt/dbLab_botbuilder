@@ -1,0 +1,23 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "Creating telegram bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "hell"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamidrezamt/dbLab_botbuilder.git"
+  },
+  "keywords": [
+    "telegram_bot",
+    "node.js"
+  ],
+  "author": "Hamidreza Motallebi Zadeh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamidrezamt/dbLab_botbuilder/issues"
+  },
+  "homepage": "https://github.com/hamidrezamt/dbLab_botbuilder#readme"
+}
