@@ -21,8 +21,13 @@
   },
   "homepage": "https://github.com/hamidrezamt/dbLab_botbuilder#readme",
   "dependencies": {
-    "mongoose": "^4.12.3",
+    "express": "^4.16.2",
     "mysql": "^2.15.0",
-    "node-telegram-bot-api": "^0.29.0"
+    "node-telegram-bot-api": "^0.29.0",
+    "sequelize": "^4.22.0",
+    "yarn": "^1.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
   }
 }
